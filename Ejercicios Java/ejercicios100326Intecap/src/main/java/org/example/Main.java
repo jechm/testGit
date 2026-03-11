@@ -6,6 +6,7 @@ public class Main {
     static void main() {
         //comment
         System.out.print("HOLA MUNDO DESDE GITHUB");
+        System.out.print("HOLA MUNDO DESDE REPO LOCAL 2");
 
     }
 }
