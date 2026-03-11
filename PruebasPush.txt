@@ -1,0 +1,4 @@
+Este documento se creo con el objetivo de
+crear un archivo y probar los comandos de
+git, tanto en git bash como en el integrado
+de git dentro de IntelliJ
